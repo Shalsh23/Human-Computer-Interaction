@@ -1,0 +1,743 @@
+Start Keyboard: KeyboardTrikey
+296.2904 b Pressed
+293.7796 b Pressed
+292.775 b Pressed
+290.8437 e Pressed
+287.9368 e Pressed
+286.2669 e Pressed
+282.5585 h Pressed
+280.528 g SwipeUp
+278.7282 i SwipeDown
+276.7569 j SwipeUp
+275.4179 l SwipeDown
+273.471 m SwipeUp
+271.8698 n Pressed
+270.8261 o SwipeDown
+268.9785 p SwipeUp
+267.5772 r SwipeDown
+265.4323 r SwipeDown
+263.7929 t Pressed
+261.789 t Pressed
+260.7383 u SwipeDown
+258.3509 v SwipeUp
+257.1931 x SwipeDown
+254.3106 y SwipeUp
+253.1585 / SwipeDown
+abcdefghijklmnopqrstuvxwyz: Time = 51.85831
+248.1417 Enter Pressed
+243.0161 u SwipeDown
+240.2497 n Pressed
+237.7812 d SwipeUp
+236.0121 e Pressed
+232.875 r SwipeDown
+under: Time = 16.70071
+231.441 Enter Pressed
+228.2845 t Pressed
+226.7484 h Pressed
+225.6292 a SwipeUp
+224.081 t Pressed
+that: Time = 8.462036
+222.9789 Enter Pressed
+220.9265 t Pressed
+219.2435 h Pressed
+216.8885 i SwipeDown
+214.6014 s SwipeUp
+this: Time = 9.442307
+213.5366 Enter Pressed
+211.418 t Pressed
+209.4981 n Pressed
+205.9791 g SwipeUp
+202.855 e Pressed
+201.4571 t Pressed
+199.9735 h Pressed
+198.5299 e Pressed
+196.2663 r SwipeDown
+together: Time = 18.4706
+195.066 Enter Pressed
+191.9274 k Pressed
+191.4428 n Pressed
+190.744 o SwipeDown
+188.8033 w Pressed
+know: Time = 6.924454
+188.1416 Enter Pressed
+184.0653 f SwipeDown
+178.4906 r SwipeDown
+176.4117 n Pressed
+175.0896 m SwipeUp
+from: Time = 14.15506
+173.9865 Enter Pressed
+172.322 b Pressed
+169.9208 g SwipeUp
+168.9536 a SwipeUp
+166.0164 i SwipeDown
+164.898 n Pressed
+again: Time = 10.63388
+163.3526 Enter Pressed
+161.194 w Pressed
+159.6429 h Pressed
+158.808 b Pressed
+156.537 t Pressed
+what: Time = 7.419983
+155.9327 Enter Pressed
+152.7684 s SwipeUp
+151.8337 t Pressed
+150.3436 a SwipeUp
+146.1119 z Pressed
+stay: Time = 11.05746
+144.8752 Enter Pressed
+143.2061 w Pressed
+141.8547 o SwipeDown
+139.7376 u SwipeDown
+136.7808 l SwipeDown
+135.0979 d SwipeUp
+would: Time = 10.89505
+133.9801 Enter Pressed
+132.629 a SwipeUp
+131.7835 b Pressed
+130.2549 o SwipeDown
+128.6222 u SwipeDown
+127.9564 t Pressed
+about: Time = 6.890007
+127.0901 Enter Pressed
+123.432 i SwipeDown
+120.9137 n Pressed
+119.725 t Pressed
+118.3192 e Pressed
+115.6072 r SwipeDown
+113.9052 n Pressed
+112.7162 a SwipeUp
+111.2097 t Pressed
+108.8778 i SwipeDown
+106.4145 o SwipeDown
+105.7246 n Pressed
+104.8959 a SwipeUp
+102.7254 l SwipeDown
+international: Time = 25.59981
+101.4903 Enter Pressed
+97.29456 f SwipeDown
+95.23416 o SwipeDown
+93.0153 l SwipeDown
+91.94711 l SwipeDown
+89.9268 o SwipeDown
+86.00665 w Pressed
+follow: Time = 16.23544
+85.25489 Enter Pressed
+82.12063 r SwipeDown
+80.6345 e Pressed
+78.08333 l SwipeDown
+77.24452 a SwipeUp
+75.81086 t Pressed
+73.94413 i SwipeDown
+71.7761 o SwipeDown
+70.62205 n Pressed
+65.60087 s SwipeUp
+64.61756 h Pressed
+61.92909 i SwipeDown
+60.3952 p SwipeUp
+relationship: Time = 25.72501
+59.52988 Enter Pressed
+57.52758 w Pressed
+56.28769 o SwipeDown
+54.59025 r SwipeDown
+53.56867 k Pressed
+work: Time = 6.72562
+52.80426 Enter Pressed
+51.09747 t Pressed
+49.20055 i SwipeDown
+47.15002 m SwipeUp
+45.98993 e Pressed
+time: Time = 7.691494
+45.11277 Enter Pressed
+41.5229 l SwipeDown
+40.05616 o SwipeDown
+38.3243 n Pressed
+37.0832 g SwipeUp
+long: Time = 8.876656
+36.23611 Enter Pressed
+33.80089 g SwipeUp
+32.72977 r SwipeDown
+30.97554 o SwipeDown
+28.4088 u SwipeDown
+26.57543 n Pressed
+25.20616 d SwipeUp
+ground: Time = 11.86467
+24.37144 Enter Pressed
+19.68201 v SwipeUp
+17.27836 e Pressed
+15.95792 a SwipeUp
+13.35858 r SwipeDown
+year: Time = 12.78378
+11.58766 Enter Pressed
+9.205224 w Pressed
+7.03017 h Pressed
+5.85117 e Pressed
+4.461366 n Pressed
+when: Time = 7.955373
+3.632282 Enter Pressed
+1.812737 t Pressed
+0.1906116 h Pressed
+End Keyboard: KeyboardTrikey
+Words Typed: 22
+Word Errors: 7
+Letters Typed: 133
+
+Start Keyboard: KeyboardPentakey
+294.5977 a SwipeUp
+293.4039 b Pressed
+292.627 c SwipeDown
+291.9056 d SwipeRight
+290.0206 e SwipeUp
+289.2473 f SwipeLeft
+288.3403 g Pressed
+287.6168 h SwipeRight
+286.8651 i SwipeDown
+285.9208 j SwipeUp
+285.4502 k SwipeLeft
+284.4714 l Pressed
+283.3843 m SwipeRight
+282.5484 n SwipeDown
+280.8521 o SwipeUp
+279.9963 p SwipeLeft
+279.2971 q Pressed
+278.3991 r SwipeRight
+277.8004 s SwipeDown
+276.4938 t SwipeUp
+275.7396 u SwipeLeft
+274.8924 v Pressed
+273.8237 w SwipeRight
+273.0561 x SwipeDown
+271.639 y SwipeUp
+270.8362 z SwipeLeft
+abcdefghijklmnopqrstuvxwyz: Time = 32.43326
+267.5667 Enter Pressed
+264.5224 s SwipeDown
+262.862 e SwipeUp
+262.0299 a SwipeUp
+261.1021 s SwipeDown
+260.274 o SwipeUp
+258.7042 n SwipeDown
+season: Time = 9.898224
+257.6685 Enter Pressed
+255.5653 t SwipeUp
+253.2022 h SwipeRight
+251.9757 a SwipeUp
+250.843 t SwipeUp
+that: Time = 7.92157
+249.7469 Enter Pressed
+248.5285 t SwipeUp
+247.1716 h SwipeRight
+245.3362 a SwipeUp
+243.3903 n SwipeDown
+241.2358 k SwipeLeft
+thank: Time = 9.497116
+240.2498 Enter Pressed
+234.8916 p SwipeLeft
+230.3763 i SwipeDown
+225.9663 c SwipeDown
+221.8441 t SwipeUp
+218.1597 u SwipeLeft
+214.1402 r SwipeRight
+213.022 e SwipeUp
+picture: Time = 28.14555
+212.1043 Enter Pressed
+209.7727 t SwipeUp
+209.215 o SwipeUp
+207.8674 g Pressed
+206.9994 e SwipeUp
+205.8975 t SwipeUp
+205.285 h SwipeRight
+204.3452 e SwipeUp
+203.1604 r SwipeRight
+together: Time = 9.812332
+202.2919 Enter Pressed
+200.1074 l Pressed
+198.7213 e SwipeUp
+197.7715 a SwipeUp
+196.0843 r SwipeRight
+194.6233 n SwipeDown
+learn: Time = 9.430069
+192.8619 Enter Pressed
+190.6576 f SwipeLeft
+189.1912 r SwipeRight
+187.8368 o SwipeUp
+186.8223 m SwipeRight
+from: Time = 6.853607
+186.0083 Enter Pressed
+184.0865 w SwipeRight
+182.0975 h SwipeRight
+181.2696 a SwipeUp
+178.8997 t SwipeUp
+what: Time = 7.826202
+178.1821 Enter Pressed
+176.3114 w SwipeRight
+174.6088 o SwipeUp
+173.3765 u SwipeLeft
+171.2249 l Pressed
+169.7551 d SwipeRight
+would: Time = 9.661118
+168.521 Enter Pressed
+166.9532 l Pressed
+165.2842 a SwipeUp
+163.1409 t SwipeUp
+161.944 e SwipeUp
+late: Time = 7.858124
+160.6628 Enter Pressed
+158.9072 h SwipeRight
+157.8764 a SwipeUp
+154.0196 i SwipeDown
+151.784 r SwipeRight
+hair: Time = 10.15375
+150.5091 Enter Pressed
+148.8979 a SwipeUp
+147.7152 g Pressed
+146.9939 a SwipeUp
+145.0619 i SwipeDown
+143.7627 n SwipeDown
+again: Time = 7.415787
+143.0933 Enter Pressed
+140.6239 i SwipeDown
+139.7641 n SwipeDown
+138.4706 t SwipeUp
+137.2314 e SwipeUp
+135.3848 r SwipeRight
+134.1863 n SwipeDown
+133.1461 a SwipeUp
+131.7141 t SwipeUp
+129.1368 i SwipeDown
+126.8895 o SwipeUp
+125.8179 n SwipeDown
+125.1054 a SwipeUp
+122.6196 l Pressed
+international: Time = 21.67527
+121.418 Enter Pressed
+119.128 r SwipeRight
+118.1817 e SwipeUp
+115.4457 l Pressed
+114.5602 a SwipeUp
+112.5834 t SwipeUp
+109.2321 i SwipeDown
+108.3673 o SwipeUp
+105.9007 n SwipeDown
+102.4719 s SwipeDown
+98.40836 h SwipeRight
+91.36298 i SwipeDown
+89.94688 q Pressed
+relationship: Time = 32.74398
+88.67404 Enter Pressed
+86.83765 n SwipeDown
+85.97463 a SwipeUp
+84.59295 t SwipeUp
+82.3515 i SwipeDown
+80.94102 o SwipeUp
+79.24329 n SwipeDown
+nation: Time = 11.40672
+77.26732 Enter Pressed
+72.1962 t SwipeUp
+70.30423 i SwipeDown
+69.31292 m SwipeRight
+68.18552 e SwipeUp
+time: Time = 9.727951
+67.53937 Enter Pressed
+66.30554 e SwipeUp
+64.63529 v Pressed
+63.55187 e SwipeUp
+62.0722 n SwipeDown
+60.29823 t SwipeUp
+event: Time = 7.907429
+59.63194 Enter Pressed
+56.97905 g Pressed
+55.12551 r SwipeRight
+54.00608 o SwipeUp
+51.32208 u SwipeLeft
+48.56675 n SwipeDown
+47.16133 d SwipeRight
+ground: Time = 13.30001
+46.33193 Enter Pressed
+44.53064 w SwipeRight
+42.54185 h SwipeRight
+41.92391 e SwipeUp
+40.58686 n SwipeDown
+when: Time = 6.583694
+39.74823 Enter Pressed
+37.99068 p SwipeLeft
+36.52253 e SwipeUp
+35.85127 o SwipeUp
+35.07842 p SwipeLeft
+33.33319 l Pressed
+32.71795 e SwipeUp
+people: Time = 7.987762
+31.76047 Enter Pressed
+29.84352 m SwipeRight
+28.62716 i SwipeDown
+26.12426 l Pressed
+25.09156 i SwipeDown
+23.48797 t SwipeUp
+21.9388 a SwipeUp
+19.51872 r SwipeRight
+17.98474 y SwipeUp
+military: Time = 14.7613
+16.99917 Enter Pressed
+14.85603 g Pressed
+14.5564 f SwipeLeft
+12.84382 a SwipeUp
+10.25318 l Pressed
+9.591637 l Pressed
+fall: Time = 8.558293
+8.440879 Enter Pressed
+5.864686 b Pressed
+4.747669 e SwipeUp
+3.183389 l Pressed
+0.2560183 i SwipeDown
+End Keyboard: KeyboardPentakey
+Words Typed: 24
+Word Errors: 3
+Letters Typed: 156
+
+Start Keyboard: KeyboardBikey
+293.1547 c SwipeUp
+286.7973 b SwipeDown
+284.8482 c SwipeUp
+283.9872 d SwipeDown
+283.0121 e SwipeUp
+282.3919 f SwipeDown
+281.5895 g SwipeUp
+280.9087 h SwipeDown
+280.0568 i SwipeUp
+279.4505 j SwipeDown
+278.4157 k SwipeUp
+277.8046 l SwipeDown
+276.9194 m SwipeUp
+276.2824 r SwipeDown
+273.8967 o SwipeUp
+273.2321 p SwipeDown
+269.1415 q SwipeUp
+268.1134 r SwipeDown
+267.4113 s SwipeUp
+266.8662 t SwipeDown
+266.1094 y SwipeUp
+264.8838 v SwipeDown
+264.0707 w SwipeUp
+263.5372 x SwipeDown
+262.9412 y SwipeUp
+262.3721 z SwipeDown
+abcdefghijklmnopqrstuvxwyz: Time = 38.4848
+261.5152 Enter Pressed
+257.2984 r SwipeDown
+255.6652 a SwipeUp
+253.5489 t SwipeDown
+252.4618 e SwipeUp
+rate: Time = 10.60674
+250.9085 Enter Pressed
+249.0732 t SwipeDown
+247.4069 h SwipeDown
+246.3878 c SwipeUp
+244.7924 t SwipeDown
+that: Time = 7.42363
+243.4848 Enter Pressed
+240.3466 l SwipeDown
+239.513 i SwipeUp
+238.3936 n SwipeDown
+237.1777 e SwipeUp
+line: Time = 7.425537
+236.0593 Enter Pressed
+231.7507 v SwipeDown
+230.3988 k SwipeUp
+228.7476 e SwipeUp
+226.6144 w SwipeUp
+view: Time = 10.27766
+225.7816 Enter Pressed
+223.6792 p SwipeDown
+221.6418 i SwipeUp
+218.923 c SwipeUp
+215.3675 t SwipeDown
+214.0171 u SwipeUp
+211.5972 r SwipeDown
+210.8471 e SwipeUp
+picture: Time = 15.75204
+210.0296 Enter Pressed
+208.3947 e SwipeUp
+206.3084 v SwipeDown
+205.3733 g SwipeUp
+203.1049 n SwipeDown
+even: Time = 9.294342
+200.7352 Enter Pressed
+197.7651 y SwipeUp
+196.4306 g SwipeUp
+194.2221 a SwipeUp
+192.2408 h SwipeDown
+yeah: Time = 9.278534
+191.4567 Enter Pressed
+188.0525 l SwipeDown
+186.4659 e SwipeUp
+185.6024 a SwipeUp
+179.6045 r SwipeDown
+176.8077 n SwipeDown
+learn: Time = 15.43271
+176.024 Enter Pressed
+171.9352 r SwipeDown
+170.9849 e SwipeUp
+168.1611 s SwipeUp
+166.7642 u SwipeUp
+164.6617 l SwipeDown
+163.2397 t SwipeDown
+result: Time = 13.43163
+162.5924 Enter Pressed
+159.8539 c SwipeUp
+157.6329 n SwipeDown
+156.2827 m SwipeUp
+computer: Time = 7.161163
+155.4312 Space Pressed
+150.7281 f SwipeDown
+147.7226 o SwipeUp
+146.0185 u SwipeUp
+144.5035 r SwipeDown
+hour: Time = 11.92674
+143.5045 Enter Pressed
+141.517 n SwipeDown
+140.4679 e SwipeUp
+139.8149 e SwipeUp
+137.9647 d SwipeDown
+need: Time = 6.509567
+136.9949 Enter Pressed
+134.0095 h SwipeDown
+132.8416 c SwipeUp
+126.7685 p SwipeDown
+126.1176 p SwipeDown
+124.8998 e SwipeUp
+122.512 n SwipeDown
+happen: Time = 15.50797
+121.4869 Enter Pressed
+115.4519 w SwipeUp
+109.1263 h SwipeDown
+108.2945 a SwipeUp
+105.1949 t SwipeDown
+what: Time = 16.84299
+104.6439 Enter Pressed
+101.4457 l SwipeDown
+99.78788 a SwipeUp
+95.26411 t SwipeDown
+94.21433 g SwipeUp
+late: Time = 12.2645
+92.37944 Enter Pressed
+89.4583 p SwipeDown
+87.75652 l SwipeDown
+86.83767 a SwipeUp
+84.35356 y SwipeUp
+play: Time = 9.210472
+83.16897 Enter Pressed
+80.16561 a SwipeUp
+78.93082 f SwipeDown
+77.59505 c SwipeUp
+74.98972 i SwipeUp
+73.46194 p SwipeDown
+again: Time = 11.06967
+72.0993 Enter Pressed
+66.23252 r SwipeDown
+65.12967 e SwipeUp
+63.03717 l SwipeDown
+62.02649 a SwipeUp
+60.18517 t SwipeDown
+58.40712 i SwipeUp
+55.53476 o SwipeUp
+54.76884 n SwipeDown
+52.02161 h SwipeDown
+47.34549 i SwipeUp
+45.60828 p SwipeDown
+relationship: Time = 27.29066
+44.80864 Enter Pressed
+41.96754 p SwipeDown
+40.70395 e SwipeUp
+38.4498 t SwipeDown
+36.84514 i SwipeUp
+34.74726 n SwipeDown
+32.62788 d SwipeDown
+period: Time = 12.96361
+31.84502 Enter Pressed
+30.25613 t SwipeDown
+29.03741 k SwipeUp
+26.5712 m SwipeUp
+24.36681 e SwipeUp
+time: Time = 8.426819
+23.41821 Enter Pressed
+19.62816 i SwipeUp
+18.09405 n SwipeDown
+8.829839 t SwipeDown
+7.66574 e SwipeUp
+4.646371 m SwipeUp
+2.555383 n SwipeDown
+End Keyboard: KeyboardBikey
+Words Typed: 22
+Word Errors: 13
+Letters Typed: 123
+
+Start Keyboard: KeyboardBase
+298.5486 a Pressed
+290.4484 b Pressed
+289.4768 c Pressed
+288.0749 d Pressed
+286.775 e Pressed
+282.8216 f Pressed
+280.8156 g Pressed
+280.582 h Pressed
+279.9353 j Pressed
+278.218 j Pressed
+277.7325 k Pressed
+275.6983 l Pressed
+274.7964 m Pressed
+274.5476 n Pressed
+273.3127 o Pressed
+272.6921 p Pressed
+272.3747 r Pressed
+abcdefghijklmnopqrstuvxwyz: Time = 32.30981
+267.6902 Space Pressed
+257.425 w Pressed
+255.7925 h Pressed
+255.1418 a Pressed
+254.5576 b Pressed
+249.7177 t Pressed
+248.3517 h Pressed
+247.2989 e Pressed
+230.9657 r Pressed
+whether: Time = 39.36186
+228.3283 Enter Pressed
+226.4601 b Pressed
+226.0926 b Pressed
+223.7237 o Pressed
+219.2672 u Pressed
+218.8147 t Pressed
+about: Time = 10.15237
+218.1759 Enter Pressed
+215.9813 m Pressed
+214.5802 e Pressed
+214.1461 e Pressed
+210.8591 t Pressed
+meet: Time = 7.900787
+210.2752 Enter Pressed
+208.3532 t Pressed
+207.1044 h Pressed
+206.003 a Pressed
+204.1515 t Pressed
+that: Time = 6.647217
+203.6279 Enter Pressed
+196.292 s Pressed
+194.937 o Pressed
+194.4386 m Pressed
+193.0391 e Pressed
+191.2843 o Pressed
+190.9839 n Pressed
+189.9512 f Pressed
+someone: Time = 16.36378
+187.2642 Enter Pressed
+185.1099 p Pressed
+181.3087 o Pressed
+178.6381 i Pressed
+176.7701 n Pressed
+170.6283 t Pressed
+point: Time = 20.64119
+166.623 Enter Pressed
+162.8356 v Pressed
+161.487 j Pressed
+160.7846 d Pressed
+159.4989 f Pressed
+158.4303 e Pressed
+154.4431 w Pressed
+view: Time = 12.76537
+153.8576 Enter Pressed
+151.8056 e Pressed
+150.2873 v Pressed
+149.3705 e Pressed
+147.9656 n Pressed
+even: Time = 6.555405
+147.3022 Enter Pressed
+145.2345 t Pressed
+144.2998 o Pressed
+142.5462 w Pressed
+139.1921 b Pressed
+132.4197 r Pressed
+129.9957 a Pressed
+toward: Time = 18.62692
+128.6753 Enter Pressed
+126.1252 l Pressed
+124.7947 e Pressed
+123.5281 a Pressed
+117.1352 r Pressed
+112.0459 q Pressed
+learn: Time = 17.76276
+110.9125 Enter Pressed
+107.1888 l Pressed
+105.7878 i Pressed
+104.0708 f Pressed
+103.3702 e Pressed
+life: Time = 8.468864
+102.4436 Enter Pressed
+100.6003 n Pressed
+99.52169 a Pressed
+98.71497 m Pressed
+97.10909 f Pressed
+name: Time = 6.580765
+95.86288 Enter Pressed
+94.15678 p Pressed
+90.10223 i Pressed
+88.48308 c Pressed
+86.49933 t Pressed
+84.93319 u Pressed
+82.12873 r Pressed
+81.06091 f Pressed
+picture: Time = 15.78537
+80.07751 Enter Pressed
+75.93941 c Pressed
+74.78711 o Pressed
+73.53263 u Pressed
+71.83467 r Pressed
+69.61245 s Pressed
+68.24619 e Pressed
+course: Time = 12.91676
+67.16075 Enter Pressed
+63.47511 w Pressed
+will: Time = 5.854469
+61.30628 Space Pressed
+56.64601 t Pressed
+55.41587 h Pressed
+53.48045 i Pressed
+51.92509 n Pressed
+50.52457 g Pressed
+thing: Time = 11.7801
+49.52618 Enter Pressed
+47.50259 l Pressed
+46.68958 o Pressed
+46.08894 o Pressed
+44.73685 k Pressed
+look: Time = 5.646145
+43.88004 Enter Pressed
+42.11502 h Pressed
+41.46661 o Pressed
+38.99704 u Pressed
+36.21085 r Pressed
+hour: Time = 8.186302
+35.69374 Enter Pressed
+33.27371 b Pressed
+31.98783 a Pressed
+30.55463 c Pressed
+29.86956 c Pressed
+27.61712 o Pressed
+24.31254 r Pressed
+22.56202 d Pressed
+20.33885 i Pressed
+19.15734 n Pressed
+17.62346 g Pressed
+according: Time = 19.00578
+16.68796 Enter Pressed
+14.99906 h Pressed
+13.05047 e Pressed
+12.11591 a Pressed
+8.761384 r Pressed
+8.145759 t Pressed
+heart: Time = 9.179441
+7.508518 Enter Pressed
+5.207248 g Pressed
+2.406243 i Pressed
+End Keyboard: KeyboardBase
+Words Typed: 22
+Word Errors: 11
+Letters Typed: 121
+
